@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-#ghnata farq parta h you are a weak person 
+#Good Bro
 - Bulleted
 - List
 
